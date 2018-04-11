@@ -7,7 +7,7 @@
  <body>
    <img src="우웩.jpg" width "100%">
   <br><br><br>
-  <strong><u><font size="100%">JeonSoYoung</font></u></strong>
+  <h2><strong><u><font size="100%">JeonSoYoung</font></u></strong></h2>
    <br><br><li>소개</li><br>
    <li>광고홍보</li><br>
    <li>디지털인문예술</li>
